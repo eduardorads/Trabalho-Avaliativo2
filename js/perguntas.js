@@ -58,7 +58,7 @@ export const perguntas = [{
                     "Ir pelo caminho norte.",
                     "Ir pelo caminho sul.",
                 proxima: 4,
-                
+
             }
 
         ]
@@ -74,6 +74,7 @@ export const perguntas = [{
                 ],
                 proxima: 5,
             },
+            
             {
                 texto: "Você decide parar um pouco para descansar.",
                 afirmacao: [
