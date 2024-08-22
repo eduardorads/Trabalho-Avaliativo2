@@ -58,7 +58,9 @@ export const perguntas = [{
                     "Ir pelo caminho norte.",
                     "Ir pelo caminho sul.",
                 proxima: 4,
+                
             }
+
         ]
     },
     {
@@ -77,7 +79,10 @@ export const perguntas = [{
                 afirmacao: [
                     "Parar em baixo de uma árvore.",
                     "Parar em uma clareira."
-                ], {
+                ],
+
+                 {
+
                     enunciado: "Você está perdido na selva.",
                     alternativas: [
                         {
@@ -88,9 +93,11 @@ export const perguntas = [{
                             ],
             …        
                 proxima: 6,
-            },
+
+            }
         ]
-    },
+    }
+
     {
         enunciado: "Você está perdido na selva.",
         alternativas: [
