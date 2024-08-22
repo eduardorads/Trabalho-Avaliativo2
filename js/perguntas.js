@@ -1,24 +1,24 @@
-export const perguntas = [
-    {
-        enunciado: "Você está perdido na selva.",
-        alternativas: [
-            {
-                texto: "Você pode ir pelo lado direito ou esquerdo. Você irá por qual lado?",
-                afirmacao: [
-                    "Lado direito",
-                    "Lado esquerdo."
-                ],
-                proxima: 1,
-            },
-            {
-                texto: "Você encontrou um acampamento.",
-                afirmacao: [
-                    "Você decide explorar.",
-                    "Você desvia."
-                ],
-                proxima: 2,
-            },
-        ]
+export const perguntas = [{
+    enunciado: "Você está perdido na selva.",
+    alternativas: [
+        {
+            texto: "Você pode ir pelo lado direito ou esquerdo. Você irá por qual lado?",
+            afirmacao: [
+                "Lado direito",
+                "Lado esquerdo."
+            ],
+            proxima: 1,
+        },
+        {
+            texto: "Você encontrou um acampamento.",
+            afirmacao: [
+                "Você decide explorar.",
+                "Você desvia."
+            ],
+            proxima: 2,
+        },
+    ]
+   
     },
     {
         enunciado: "Você está perdido na selva.",
@@ -77,7 +77,16 @@ export const perguntas = [
                 afirmacao: [
                     "Parar em baixo de uma árvore.",
                     "Parar em uma clareira."
-                ],
+                ], {
+                    enunciado: "Você está perdido na selva.",
+                    alternativas: [
+                        {
+                            texto: "Você pode ir pelo lado direito ou esquerdo. Você irá por qual lado?",
+                            afirmacao: [
+                                "Lado direito",
+                                "Lado esquerdo."
+                            ],
+            …        
                 proxima: 6,
             },
         ]
