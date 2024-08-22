@@ -1,17 +1,17 @@
 export const perguntas = [
     {
-        enunciado: "",
+        enunciado: "Você está perdido na selva.",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Você pode ir pelo lado direito ou esquerdo. Você irá por qual lado?",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Lado direito",
+                    "Lado esquerdo."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
                     "Pensou que IA pode ajudar em tarefas da sua vida."
