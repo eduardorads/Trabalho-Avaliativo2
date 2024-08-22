@@ -97,9 +97,9 @@ export const perguntas = [
                 texto: "Você encontra a saida da selva.",
                 afirmacao: [
                     "Você age alegremente e comemora.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Você vai o mais rapido possível para casa, reencontrar sua família."
                 ],
                 proxima: 6,
             },
         ]
-    }
+    }Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação.
