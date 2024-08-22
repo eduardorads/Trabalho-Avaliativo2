@@ -86,7 +86,7 @@ export const perguntas = [
         enunciado: "Você está perdido na selva.",
         alternativas: [
             {
-                texto: "Você encontra ",
+                texto: "Você encontra um grupo de pessoas. ",
                 afirmacao: [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
