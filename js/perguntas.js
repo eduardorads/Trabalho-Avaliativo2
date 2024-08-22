@@ -102,4 +102,4 @@ export const perguntas = [
                 proxima: 6,
             },
         ]
-    }Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação.
+    }
